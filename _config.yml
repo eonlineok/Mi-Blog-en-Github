@@ -1,1 +1,2 @@
-theme: jekyll-theme-minimal
+- name: Deploy Ghost Theme
+  uses: TryGhost/action-deploy-theme@v1.4.1
